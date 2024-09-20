@@ -1,0 +1,4 @@
+.idea
+.pytest_cache
+Pipfile.lock
+.DS_Store
